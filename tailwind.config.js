@@ -49,7 +49,7 @@ export default {
       mono100: '#f1f1f1',
       mono200: '#bebebe',
       mono300: '#d6d7d9',
-      error: '#d01ele',
+      error: '#d01e1e',
       social: '#395997',
     },
   },
